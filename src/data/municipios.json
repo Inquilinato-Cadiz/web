@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-07",
-  "source_updated_at": "2026-09-07",
-  "total": 21450,
-  "places": 116680,
+  "generated_at": "2026-10-05",
+  "source_updated_at": "2026-10-05",
+  "total": 21412,
+  "places": 116779,
   "municipios": [
     {
       "slug": "alcala-de-los-gazules",
       "name": "Alcalá de los Gazules",
-      "total": 30,
-      "places": 137,
+      "total": 31,
+      "places": 141,
       "bbox": [
         -5.730597,
         36.458997,
@@ -43,8 +43,8 @@
     {
       "slug": "algeciras",
       "name": "Algeciras",
-      "total": 171,
-      "places": 878,
+      "total": 167,
+      "places": 859,
       "bbox": [
         -5.613647,
         36.019371,
@@ -68,7 +68,7 @@
       "slug": "arcos-de-la-frontera",
       "name": "Arcos de la Frontera",
       "total": 241,
-      "places": 1251,
+      "places": 1246,
       "bbox": [
         -5.932155,
         36.697547,
@@ -79,8 +79,8 @@
     {
       "slug": "barbate",
       "name": "Barbate",
-      "total": 998,
-      "places": 5063,
+      "total": 997,
+      "places": 5071,
       "bbox": [
         -6.046085,
         36.101701,
@@ -115,20 +115,20 @@
     {
       "slug": "bornos",
       "name": "Bornos",
-      "total": 4,
-      "places": 30,
+      "total": 3,
+      "places": 24,
       "bbox": [
         -5.745198,
         36.80916,
-        -5.742465,
-        36.815432
+        -5.742946,
+        36.812805
       ]
     },
     {
       "slug": "cadiz",
       "name": "Cádiz",
-      "total": 2378,
-      "places": 11313,
+      "total": 2373,
+      "places": 11286,
       "bbox": [
         -6.306469,
         36.312016,
@@ -151,8 +151,8 @@
     {
       "slug": "chiclana-de-la-frontera",
       "name": "Chiclana de la Frontera",
-      "total": 2573,
-      "places": 15279,
+      "total": 2564,
+      "places": 15237,
       "bbox": [
         -6.275714,
         36.277093,
@@ -163,8 +163,8 @@
     {
       "slug": "chipiona",
       "name": "Chipiona",
-      "total": 716,
-      "places": 4013,
+      "total": 708,
+      "places": 3957,
       "bbox": [
         -6.441744,
         36.690835,
@@ -175,8 +175,8 @@
     {
       "slug": "conil-de-la-frontera",
       "name": "Conil de la Frontera",
-      "total": 2965,
-      "places": 15954,
+      "total": 2967,
+      "places": 15973,
       "bbox": [
         -6.155552,
         36.271906,
@@ -187,8 +187,8 @@
     {
       "slug": "el-bosque",
       "name": "El Bosque",
-      "total": 41,
-      "places": 242,
+      "total": 43,
+      "places": 253,
       "bbox": [
         -5.511708,
         36.745583,
@@ -211,8 +211,8 @@
     {
       "slug": "el-puerto-de-santa-maria",
       "name": "El Puerto de Santa María",
-      "total": 1831,
-      "places": 10608,
+      "total": 1829,
+      "places": 10602,
       "bbox": [
         -6.287591,
         36.569231,
@@ -235,20 +235,20 @@
     {
       "slug": "grazalema",
       "name": "Grazalema",
-      "total": 41,
-      "places": 222,
+      "total": 43,
+      "places": 233,
       "bbox": [
         -5.468564,
         36.757741,
-        -5.365939,
+        -5.364062,
         36.766779
       ]
     },
     {
       "slug": "jerez-de-la-frontera",
       "name": "Jerez de la Frontera",
-      "total": 1447,
-      "places": 7245,
+      "total": 1433,
+      "places": 7173,
       "bbox": [
         -6.259781,
         36.592557,
@@ -271,8 +271,8 @@
     {
       "slug": "la-linea-de-la-concepcion",
       "name": "La Línea de la Concepción",
-      "total": 212,
-      "places": 1228,
+      "total": 213,
+      "places": 1234,
       "bbox": [
         -5.369573,
         36.156724,
@@ -343,8 +343,8 @@
     {
       "slug": "puerto-real",
       "name": "Puerto Real",
-      "total": 191,
-      "places": 1055,
+      "total": 190,
+      "places": 1049,
       "bbox": [
         -6.294566,
         36.492559,
@@ -362,8 +362,8 @@
     {
       "slug": "rota",
       "name": "Rota",
-      "total": 1140,
-      "places": 6238,
+      "total": 1135,
+      "places": 6217,
       "bbox": [
         -6.418933,
         36.616527,
@@ -374,8 +374,8 @@
     {
       "slug": "san-fernando",
       "name": "San Fernando",
-      "total": 235,
-      "places": 1170,
+      "total": 236,
+      "places": 1333,
       "bbox": [
         -6.297759,
         36.372538,
@@ -400,20 +400,20 @@
     {
       "slug": "san-roque",
       "name": "San Roque",
-      "total": 1220,
-      "places": 8295,
+      "total": 1217,
+      "places": 8269,
       "bbox": [
         -5.446302,
         36.133819,
-        -5.255315,
+        -5.255438,
         36.31816
       ]
     },
     {
       "slug": "sanlucar-de-barrameda",
       "name": "Sanlúcar de Barrameda",
-      "total": 1438,
-      "places": 7961,
+      "total": 1447,
+      "places": 8037,
       "bbox": [
         -6.394822,
         36.749853,
@@ -436,8 +436,8 @@
     {
       "slug": "tarifa",
       "name": "Tarifa",
-      "total": 2919,
-      "places": 15275,
+      "total": 2910,
+      "places": 15320,
       "bbox": [
         -5.84292,
         36.010207,
@@ -479,8 +479,8 @@
     {
       "slug": "vejer-de-la-frontera",
       "name": "Vejer de la Frontera",
-      "total": 387,
-      "places": 1814,
+      "total": 391,
+      "places": 1835,
       "bbox": [
         -6.075413,
         36.189374,
@@ -503,11 +503,11 @@
     {
       "slug": "villamartin",
       "name": "Villamartín",
-      "total": 3,
-      "places": 20,
+      "total": 5,
+      "places": 41,
       "bbox": [
-        -5.642957,
-        36.856205,
+        -5.653761,
+        36.83063,
         -5.615036,
         36.864011
       ]

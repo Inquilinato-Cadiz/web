@@ -1,7 +1,7 @@
 {
   "source": "Consejo General del Poder Judicial, Estadística Judicial: efecto de la crisis en los órganos judiciales, series por provincias. Lanzamientos practicados",
   "source_url": "https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/Estudios-e-Informes/Efecto-de-la-Crisis-en-los-organos-judiciales/",
-  "file_url": "https://www.poderjudicial.es/stfls/ESTADISTICA/FICHEROS/Crisis/Series%20-%20Efecto%20de%20la%20crisis%20en%20los%20organos%20judiciales%20por%20provincias%201T-2026_revisado.xlsx?t=202609260540",
+  "file_url": "https://www.poderjudicial.es/stfls/ESTADISTICA/FICHEROS/Crisis/Series%20-%20Efecto%20de%20la%20crisis%20en%20los%20organos%20judiciales%20por%20provincias%201T-2026_revisado.xlsx?t=202610065907",
   "province": "Cádiz",
   "last_quarter": "2026-T1",
   "last_full_year": "2025",
@@ -384,5 +384,5 @@
       "2026-T1": 8
     }
   },
-  "generated_at": "2026-09-26"
+  "generated_at": "2026-10-05"
 }

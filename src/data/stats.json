@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-09-07",
-  "source_updated_at": "2026-09-07",
+  "generated_at": "2026-10-05",
+  "source_updated_at": "2026-10-05",
   "province": {
-    "total": 21450,
-    "places": 116680,
-    "skipped_without_valid_coordinates": 524,
+    "total": 21412,
+    "places": 116779,
+    "skipped_without_valid_coordinates": 569,
     "by_type": {
-      "VUT": 21444,
-      "AT": 6
+      "VUT": 21402,
+      "AT": 10
     },
     "by_group": {
-      "Completa": 20641,
-      "Por habitaciones": 793,
+      "Completa": 20605,
+      "Por habitaciones": 787,
       "sin dato": 10,
-      "Edificio/Complejo": 4,
-      "Conjunto": 2
+      "Edificio/Complejo": 6,
+      "Conjunto": 4
     },
     "by_year": {
       "2005": 2,
       "2016": 1467,
-      "2017": 1909,
-      "2018": 1920,
-      "2019": 2568,
-      "2020": 1444,
-      "2021": 1539,
-      "2022": 2308,
-      "2023": 2037,
-      "2024": 2901,
-      "2025": 2507,
-      "2026": 848
+      "2017": 1907,
+      "2018": 1919,
+      "2019": 2564,
+      "2020": 1441,
+      "2021": 1537,
+      "2022": 2301,
+      "2023": 2035,
+      "2024": 2877,
+      "2025": 2476,
+      "2026": 886
     },
     "companies": [
       {
         "name": "ALQUILER VACACIONAL TURISMO E INNOVACIÓN SOCIAL SCA",
-        "count": 83
+        "count": 81
       },
       {
         "name": "OLE SOLUTIONS HOLIDAY RENTALS S.L.",
@@ -65,7 +65,7 @@
       },
       {
         "name": "CAMPOMAR TRAVEL, S.L.",
-        "count": 36
+        "count": 34
       },
       {
         "name": "ABBANA SERVICIOS INMOBILIARIOS, S.L",
@@ -92,109 +92,109 @@
         "count": 18
       }
     ],
-    "individuals_count": 18339,
+    "individuals_count": 18301,
     "by_municipio": [
       {
         "slug": "conil-de-la-frontera",
         "name": "Conil de la Frontera",
-        "total": 2965,
-        "places": 15954
+        "total": 2967,
+        "places": 15973
       },
       {
         "slug": "tarifa",
         "name": "Tarifa",
-        "total": 2919,
-        "places": 15275
+        "total": 2910,
+        "places": 15320
       },
       {
         "slug": "chiclana-de-la-frontera",
         "name": "Chiclana de la Frontera",
-        "total": 2573,
-        "places": 15279
+        "total": 2564,
+        "places": 15237
       },
       {
         "slug": "cadiz",
         "name": "Cádiz",
-        "total": 2378,
-        "places": 11313
+        "total": 2373,
+        "places": 11286
       },
       {
         "slug": "el-puerto-de-santa-maria",
         "name": "El Puerto de Santa María",
-        "total": 1831,
-        "places": 10608
-      },
-      {
-        "slug": "jerez-de-la-frontera",
-        "name": "Jerez de la Frontera",
-        "total": 1447,
-        "places": 7245
+        "total": 1829,
+        "places": 10602
       },
       {
         "slug": "sanlucar-de-barrameda",
         "name": "Sanlúcar de Barrameda",
-        "total": 1438,
-        "places": 7961
+        "total": 1447,
+        "places": 8037
+      },
+      {
+        "slug": "jerez-de-la-frontera",
+        "name": "Jerez de la Frontera",
+        "total": 1433,
+        "places": 7173
       },
       {
         "slug": "san-roque",
         "name": "San Roque",
-        "total": 1220,
-        "places": 8295
+        "total": 1217,
+        "places": 8269
       },
       {
         "slug": "rota",
         "name": "Rota",
-        "total": 1140,
-        "places": 6238
+        "total": 1135,
+        "places": 6217
       },
       {
         "slug": "barbate",
         "name": "Barbate",
-        "total": 998,
-        "places": 5063
+        "total": 997,
+        "places": 5071
       },
       {
         "slug": "chipiona",
         "name": "Chipiona",
-        "total": 716,
-        "places": 4013
+        "total": 708,
+        "places": 3957
       },
       {
         "slug": "vejer-de-la-frontera",
         "name": "Vejer de la Frontera",
-        "total": 387,
-        "places": 1814
+        "total": 391,
+        "places": 1835
       },
       {
         "slug": "arcos-de-la-frontera",
         "name": "Arcos de la Frontera",
         "total": 241,
-        "places": 1251
+        "places": 1246
       },
       {
         "slug": "san-fernando",
         "name": "San Fernando",
-        "total": 235,
-        "places": 1170
+        "total": 236,
+        "places": 1333
       },
       {
         "slug": "la-linea-de-la-concepcion",
         "name": "La Línea de la Concepción",
-        "total": 212,
-        "places": 1228
+        "total": 213,
+        "places": 1234
       },
       {
         "slug": "puerto-real",
         "name": "Puerto Real",
-        "total": 191,
-        "places": 1055
+        "total": 190,
+        "places": 1049
       },
       {
         "slug": "algeciras",
         "name": "Algeciras",
-        "total": 171,
-        "places": 878
+        "total": 167,
+        "places": 859
       },
       {
         "slug": "medina-sidonia",
@@ -205,20 +205,20 @@
       {
         "slug": "el-bosque",
         "name": "El Bosque",
-        "total": 41,
-        "places": 242
+        "total": 43,
+        "places": 253
       },
       {
         "slug": "grazalema",
         "name": "Grazalema",
-        "total": 41,
-        "places": 222
+        "total": 43,
+        "places": 233
       },
       {
         "slug": "alcala-de-los-gazules",
         "name": "Alcalá de los Gazules",
-        "total": 30,
-        "places": 137
+        "total": 31,
+        "places": 141
       },
       {
         "slug": "benalup-casas-viejas",
@@ -305,10 +305,16 @@
         "places": 21
       },
       {
+        "slug": "villamartin",
+        "name": "Villamartín",
+        "total": 5,
+        "places": 41
+      },
+      {
         "slug": "bornos",
         "name": "Bornos",
-        "total": 4,
-        "places": 30
+        "total": 3,
+        "places": 24
       },
       {
         "slug": "trebujena",
@@ -321,12 +327,6 @@
         "name": "Villaluenga del Rosario",
         "total": 3,
         "places": 23
-      },
-      {
-        "slug": "villamartin",
-        "name": "Villamartín",
-        "total": 3,
-        "places": 20
       },
       {
         "slug": "alcala-del-valle",
@@ -369,19 +369,19 @@
   "municipios": {
     "alcala-de-los-gazules": {
       "name": "Alcalá de los Gazules",
-      "total": 30,
-      "places": 137,
-      "skipped_without_valid_coordinates": 4,
+      "total": 31,
+      "places": 141,
+      "skipped_without_valid_coordinates": 5,
       "by_type": {
-        "VUT": 30
+        "VUT": 31
       },
       "by_group": {
-        "Completa": 27,
+        "Completa": 28,
         "Por habitaciones": 2,
         "sin dato": 1
       },
       "by_postal_code": {
-        "11180": 30
+        "11180": 31
       },
       "by_year": {
         "2021": 2,
@@ -389,7 +389,7 @@
         "2023": 7,
         "2024": 7,
         "2025": 8,
-        "2026": 4
+        "2026": 5
       },
       "companies": [
         {
@@ -401,7 +401,7 @@
           "count": 1
         }
       ],
-      "individuals_count": 28
+      "individuals_count": 29
     },
     "alcala-del-valle": {
       "name": "Alcalá del Valle",
@@ -460,20 +460,20 @@
     },
     "algeciras": {
       "name": "Algeciras",
-      "total": 171,
-      "places": 878,
-      "skipped_without_valid_coordinates": 3,
+      "total": 167,
+      "places": 859,
+      "skipped_without_valid_coordinates": 4,
       "by_type": {
-        "VUT": 171
+        "VUT": 167
       },
       "by_group": {
-        "Completa": 150,
+        "Completa": 146,
         "Por habitaciones": 21
       },
       "by_postal_code": {
-        "11201": 32,
+        "11201": 31,
         "11202": 12,
-        "11203": 27,
+        "11203": 24,
         "11204": 19,
         "11205": 21,
         "11206": 10,
@@ -490,13 +490,13 @@
         "2022": 12,
         "2023": 12,
         "2024": 36,
-        "2025": 43,
+        "2025": 39,
         "2026": 12
       },
       "companies": [
         {
           "name": "CARPINTERIA ALGECIREÑA, S.L.",
-          "count": 7
+          "count": 4
         },
         {
           "name": "RENTAL MANAGER SL",
@@ -555,13 +555,13 @@
           "count": 1
         }
       ],
-      "individuals_count": 140
+      "individuals_count": 139
     },
     "algodonales": {
       "name": "Algodonales",
       "total": 20,
       "places": 106,
-      "skipped_without_valid_coordinates": 1,
+      "skipped_without_valid_coordinates": 2,
       "by_type": {
         "VUT": 20
       },
@@ -586,8 +586,8 @@
     "arcos-de-la-frontera": {
       "name": "Arcos de la Frontera",
       "total": 241,
-      "places": 1251,
-      "skipped_without_valid_coordinates": 12,
+      "places": 1246,
+      "skipped_without_valid_coordinates": 13,
       "by_type": {
         "VUT": 241
       },
@@ -610,9 +610,9 @@
         "2021": 9,
         "2022": 26,
         "2023": 25,
-        "2024": 57,
+        "2024": 56,
         "2025": 47,
-        "2026": 12
+        "2026": 13
       },
       "companies": [
         {
@@ -680,27 +680,27 @@
     },
     "barbate": {
       "name": "Barbate",
-      "total": 998,
-      "places": 5063,
-      "skipped_without_valid_coordinates": 44,
+      "total": 997,
+      "places": 5071,
+      "skipped_without_valid_coordinates": 47,
       "by_type": {
-        "VUT": 997,
-        "AT": 1
+        "VUT": 995,
+        "AT": 2
       },
       "by_group": {
-        "Completa": 976,
+        "Completa": 974,
         "Por habitaciones": 21,
-        "Edificio/Complejo": 1
+        "Edificio/Complejo": 2
       },
       "by_postal_code": {
         "1160": 2,
         "11011": 1,
         "11150": 6,
-        "11159": 139,
-        "11160": 462,
+        "11159": 140,
+        "11160": 461,
         "11205": 1,
         "11303": 1,
-        "11393": 385,
+        "11393": 384,
         "33440": 1
       },
       "by_year": {
@@ -711,11 +711,11 @@
         "2019": 87,
         "2020": 44,
         "2021": 41,
-        "2022": 93,
+        "2022": 92,
         "2023": 99,
         "2024": 160,
-        "2025": 178,
-        "2026": 84
+        "2025": 177,
+        "2026": 85
       },
       "companies": [
         {
@@ -747,6 +747,10 @@
           "count": 3
         },
         {
+          "name": "FINANCE LA JANDA SL",
+          "count": 3
+        },
+        {
           "name": "Nuestra Zahara, S.L.",
           "count": 3
         },
@@ -773,13 +777,9 @@
         {
           "name": "MULTISERVICIOS LAGUN SLU",
           "count": 2
-        },
-        {
-          "name": "DEALTURES S.L.U.",
-          "count": 2
         }
       ],
-      "individuals_count": 842
+      "individuals_count": 841
     },
     "los-barrios": {
       "name": "Los Barrios",
@@ -895,24 +895,22 @@
     },
     "bornos": {
       "name": "Bornos",
-      "total": 4,
-      "places": 30,
+      "total": 3,
+      "places": 24,
       "skipped_without_valid_coordinates": 0,
       "by_type": {
-        "VUT": 4
+        "VUT": 3
       },
       "by_group": {
-        "Completa": 3,
-        "Por habitaciones": 1
+        "Completa": 3
       },
       "by_postal_code": {
-        "11640": 4
+        "11640": 3
       },
       "by_year": {
         "2019": 1,
         "2023": 1,
-        "2024": 1,
-        "2025": 1
+        "2024": 1
       },
       "companies": [
         {
@@ -920,21 +918,22 @@
           "count": 1
         }
       ],
-      "individuals_count": 3
+      "individuals_count": 2
     },
     "el-bosque": {
       "name": "El Bosque",
-      "total": 41,
-      "places": 242,
-      "skipped_without_valid_coordinates": 4,
+      "total": 43,
+      "places": 253,
+      "skipped_without_valid_coordinates": 5,
       "by_type": {
-        "VUT": 41
+        "VUT": 43
       },
       "by_group": {
-        "Completa": 41
+        "Completa": 42,
+        "Por habitaciones": 1
       },
       "by_postal_code": {
-        "11670": 41
+        "11670": 43
       },
       "by_year": {
         "2018": 1,
@@ -944,7 +943,8 @@
         "2022": 4,
         "2023": 6,
         "2024": 7,
-        "2025": 16
+        "2025": 16,
+        "2026": 2
       },
       "companies": [
         {
@@ -976,20 +976,20 @@
           "count": 1
         }
       ],
-      "individuals_count": 34
+      "individuals_count": 36
     },
     "cadiz": {
       "name": "Cádiz",
-      "total": 2378,
-      "places": 11313,
+      "total": 2373,
+      "places": 11286,
       "skipped_without_valid_coordinates": 1,
       "by_type": {
-        "VUT": 2376,
+        "VUT": 2371,
         "AT": 2
       },
       "by_group": {
-        "Completa": 2273,
-        "Por habitaciones": 103,
+        "Completa": 2270,
+        "Por habitaciones": 101,
         "Conjunto": 1,
         "Edificio/Complejo": 1
       },
@@ -999,19 +999,19 @@
         "11001": 215,
         "11002": 413,
         "11003": 301,
-        "11004": 232,
+        "11004": 231,
         "11005": 294,
         "11006": 117,
         "11007": 82,
         "11008": 191,
         "11009": 127,
-        "11010": 198,
-        "11011": 171,
-        "11012": 35
+        "11010": 197,
+        "11011": 169,
+        "11012": 34
       },
       "by_year": {
         "2005": 1,
-        "2016": 173,
+        "2016": 172,
         "2017": 236,
         "2018": 341,
         "2019": 443,
@@ -1019,13 +1019,13 @@
         "2021": 371,
         "2022": 323,
         "2023": 69,
-        "2024": 74,
-        "2025": 40
+        "2024": 72,
+        "2025": 38
       },
       "companies": [
         {
           "name": "ALQUILER VACACIONAL TURISMO E INNOVACIÓN SOCIAL SCA",
-          "count": 83
+          "count": 81
         },
         {
           "name": "DUNA BEDUINA SERVICIOS TURISTÍCOS, S.L.",
@@ -1045,7 +1045,7 @@
         },
         {
           "name": "GADES GESTIÓN TURÍSTICA SL",
-          "count": 11
+          "count": 12
         },
         {
           "name": "GADES 2012 DESARROLLOS INMOBILIARIOS,S.L.",
@@ -1072,7 +1072,7 @@
           "count": 2
         },
         {
-          "name": "TEGUS PARTNERS S.L.",
+          "name": "CBR TURISMO SOCIEDAD LIMITADA",
           "count": 2
         },
         {
@@ -1084,7 +1084,7 @@
           "count": 2
         }
       ],
-      "individuals_count": 1869
+      "individuals_count": 1866
     },
     "castellar-de-la-frontera": {
       "name": "Castellar de la Frontera",
@@ -1116,24 +1116,24 @@
     },
     "chiclana-de-la-frontera": {
       "name": "Chiclana de la Frontera",
-      "total": 2573,
-      "places": 15279,
-      "skipped_without_valid_coordinates": 73,
+      "total": 2564,
+      "places": 15237,
+      "skipped_without_valid_coordinates": 76,
       "by_type": {
-        "VUT": 2573
+        "VUT": 2564
       },
       "by_group": {
-        "Completa": 2491,
-        "Por habitaciones": 82
+        "Completa": 2483,
+        "Por habitaciones": 81
       },
       "by_postal_code": {
         "1130": 2,
         "1139": 1,
         "11100": 1,
-        "11130": 1514,
+        "11130": 1509,
         "11131": 1,
         "11138": 8,
-        "11139": 1041,
+        "11139": 1037,
         "11140": 1,
         "11149": 1,
         "11300": 1,
@@ -1142,21 +1142,21 @@
       },
       "by_year": {
         "2016": 119,
-        "2017": 279,
+        "2017": 278,
         "2018": 184,
         "2019": 301,
-        "2020": 223,
+        "2020": 222,
         "2021": 158,
-        "2022": 227,
+        "2022": 226,
         "2023": 266,
         "2024": 350,
-        "2025": 309,
-        "2026": 157
+        "2025": 299,
+        "2026": 161
       },
       "companies": [
         {
           "name": "CAMPOMAR TRAVEL, S.L.",
-          "count": 36
+          "count": 34
         },
         {
           "name": "HOLIDAYS INCOMING S.L.",
@@ -1215,18 +1215,18 @@
           "count": 2
         }
       ],
-      "individuals_count": 2266
+      "individuals_count": 2257
     },
     "chipiona": {
       "name": "Chipiona",
-      "total": 716,
-      "places": 4013,
-      "skipped_without_valid_coordinates": 47,
+      "total": 708,
+      "places": 3957,
+      "skipped_without_valid_coordinates": 52,
       "by_type": {
-        "VUT": 716
+        "VUT": 708
       },
       "by_group": {
-        "Completa": 703,
+        "Completa": 695,
         "Por habitaciones": 13
       },
       "by_postal_code": {
@@ -1234,7 +1234,7 @@
         "11030": 1,
         "11150": 1,
         "11520": 4,
-        "11550": 699,
+        "11550": 691,
         "14400": 1,
         "18014": 1,
         "28049": 1,
@@ -1249,13 +1249,13 @@
         "2017": 29,
         "2018": 38,
         "2019": 63,
-        "2020": 32,
-        "2021": 42,
+        "2020": 31,
+        "2021": 41,
         "2022": 69,
-        "2023": 67,
-        "2024": 145,
-        "2025": 146,
-        "2026": 74
+        "2023": 66,
+        "2024": 144,
+        "2025": 141,
+        "2026": 75
       },
       "companies": [
         {
@@ -1319,19 +1319,19 @@
           "count": 2
         }
       ],
-      "individuals_count": 628
+      "individuals_count": 620
     },
     "conil-de-la-frontera": {
       "name": "Conil de la Frontera",
-      "total": 2965,
-      "places": 15954,
-      "skipped_without_valid_coordinates": 71,
+      "total": 2967,
+      "places": 15973,
+      "skipped_without_valid_coordinates": 75,
       "by_type": {
-        "VUT": 2963,
+        "VUT": 2965,
         "AT": 2
       },
       "by_group": {
-        "Completa": 2896,
+        "Completa": 2898,
         "Por habitaciones": 65,
         "sin dato": 2,
         "Conjunto": 1,
@@ -1340,8 +1340,8 @@
       "by_postal_code": {
         "1140": 2,
         "11130": 1,
-        "11140": 2543,
-        "11149": 416,
+        "11140": 2544,
+        "11149": 417,
         "11190": 1,
         "11410": 1,
         "11500": 1
@@ -1356,8 +1356,8 @@
         "2022": 255,
         "2023": 169,
         "2024": 282,
-        "2025": 346,
-        "2026": 124
+        "2025": 345,
+        "2026": 127
       },
       "companies": [
         {
@@ -1382,6 +1382,10 @@
         },
         {
           "name": "ESPACIOS Y PROCESOS INNOVADORES S.L.",
+          "count": 3
+        },
+        {
+          "name": "ACTIVALTRADI SL",
           "count": 3
         },
         {
@@ -1414,10 +1418,6 @@
         },
         {
           "name": "LAS CASITAS C.B. (ENTIDAD EN REGIMEN DE ATRIBUCION DE RENTAS SIN PERSONALIDAD JURIDICA)",
-          "count": 2
-        },
-        {
-          "name": "DIRU FACTORY, S.L.",
           "count": 2
         }
       ],
@@ -1467,19 +1467,19 @@
     },
     "grazalema": {
       "name": "Grazalema",
-      "total": 41,
-      "places": 222,
-      "skipped_without_valid_coordinates": 2,
+      "total": 43,
+      "places": 233,
+      "skipped_without_valid_coordinates": 3,
       "by_type": {
-        "VUT": 41
+        "VUT": 43
       },
       "by_group": {
-        "Completa": 40,
+        "Completa": 42,
         "Por habitaciones": 1
       },
       "by_postal_code": {
-        "11610": 21,
-        "11679": 19,
+        "11610": 22,
+        "11679": 20,
         "16010": 1
       },
       "by_year": {
@@ -1491,7 +1491,7 @@
         "2023": 7,
         "2024": 3,
         "2025": 12,
-        "2026": 4
+        "2026": 6
       },
       "companies": [
         {
@@ -1499,18 +1499,18 @@
           "count": 1
         }
       ],
-      "individuals_count": 40
+      "individuals_count": 42
     },
     "jerez-de-la-frontera": {
       "name": "Jerez de la Frontera",
-      "total": 1447,
-      "places": 7245,
-      "skipped_without_valid_coordinates": 25,
+      "total": 1433,
+      "places": 7173,
+      "skipped_without_valid_coordinates": 26,
       "by_type": {
-        "VUT": 1447
+        "VUT": 1433
       },
       "by_group": {
-        "Completa": 1325,
+        "Completa": 1311,
         "Por habitaciones": 122
       },
       "by_postal_code": {
@@ -1518,18 +1518,18 @@
         "11043": 1,
         "11204": 2,
         "11400": 3,
-        "11401": 220,
-        "11402": 278,
-        "11403": 434,
-        "11404": 97,
-        "11405": 141,
-        "11406": 72,
+        "11401": 219,
+        "11402": 275,
+        "11403": 432,
+        "11404": 94,
+        "11405": 137,
+        "11406": 71,
         "11407": 70,
-        "11408": 113,
+        "11408": 114,
         "11503": 1,
         "11570": 2,
         "11579": 1,
-        "11591": 3,
+        "11591": 2,
         "11592": 5,
         "11595": 2,
         "41604": 1
@@ -1542,10 +1542,10 @@
         "2020": 79,
         "2021": 71,
         "2022": 150,
-        "2023": 205,
-        "2024": 257,
-        "2025": 243,
-        "2026": 15
+        "2023": 206,
+        "2024": 240,
+        "2025": 242,
+        "2026": 18
       },
       "companies": [
         {
@@ -1609,7 +1609,7 @@
           "count": 2
         }
       ],
-      "individuals_count": 1178
+      "individuals_count": 1165
     },
     "jimena-de-la-frontera": {
       "name": "Jimena de la Frontera",
@@ -1643,18 +1643,18 @@
     },
     "la-linea-de-la-concepcion": {
       "name": "La Línea de la Concepción",
-      "total": 212,
-      "places": 1228,
-      "skipped_without_valid_coordinates": 7,
+      "total": 213,
+      "places": 1234,
+      "skipped_without_valid_coordinates": 10,
       "by_type": {
-        "VUT": 212
+        "VUT": 213
       },
       "by_group": {
-        "Completa": 191,
+        "Completa": 192,
         "Por habitaciones": 21
       },
       "by_postal_code": {
-        "11300": 129,
+        "11300": 130,
         "11301": 1,
         "11315": 13,
         "11316": 55,
@@ -1671,11 +1671,15 @@
         "2023": 25,
         "2024": 46,
         "2025": 32,
-        "2026": 11
+        "2026": 12
       },
       "companies": [
         {
           "name": "COSMOMUNDI SLU",
+          "count": 2
+        },
+        {
+          "name": "TOP PROPERTIES MARBELLA SL",
           "count": 2
         },
         {
@@ -1728,10 +1732,6 @@
         },
         {
           "name": "Asesoria de consumo y sanidad sl",
-          "count": 1
-        },
-        {
-          "name": "BEST IN CLASS PROFESSIONAL SERVICES SL",
           "count": 1
         }
       ],
@@ -1863,14 +1863,14 @@
     },
     "el-puerto-de-santa-maria": {
       "name": "El Puerto de Santa María",
-      "total": 1831,
-      "places": 10608,
+      "total": 1829,
+      "places": 10602,
       "skipped_without_valid_coordinates": 5,
       "by_type": {
-        "VUT": 1831
+        "VUT": 1829
       },
       "by_group": {
-        "Completa": 1763,
+        "Completa": 1761,
         "Por habitaciones": 65,
         "sin dato": 3
       },
@@ -1878,7 +1878,7 @@
         "1500": 1,
         "11150": 2,
         "11407": 1,
-        "11500": 1827
+        "11500": 1825
       },
       "by_year": {
         "2016": 97,
@@ -1889,8 +1889,8 @@
         "2021": 126,
         "2022": 226,
         "2023": 238,
-        "2024": 398,
-        "2025": 114,
+        "2024": 397,
+        "2025": 113,
         "2026": 1
       },
       "companies": [
@@ -1955,24 +1955,24 @@
           "count": 2
         }
       ],
-      "individuals_count": 1562
+      "individuals_count": 1560
     },
     "puerto-real": {
       "name": "Puerto Real",
-      "total": 191,
-      "places": 1055,
+      "total": 190,
+      "places": 1049,
       "skipped_without_valid_coordinates": 2,
       "by_type": {
-        "VUT": 191
+        "VUT": 190
       },
       "by_group": {
-        "Completa": 172,
+        "Completa": 171,
         "Por habitaciones": 19
       },
       "by_postal_code": {
         "519": 1,
         "1510": 1,
-        "11510": 160,
+        "11510": 159,
         "11518": 5,
         "11519": 23,
         "11540": 1
@@ -1988,7 +1988,7 @@
         "2023": 28,
         "2024": 48,
         "2025": 36,
-        "2026": 8
+        "2026": 7
       },
       "companies": [
         {
@@ -2020,7 +2020,7 @@
           "count": 1
         }
       ],
-      "individuals_count": 183
+      "individuals_count": 182
     },
     "puerto-serrano": {
       "name": "Puerto Serrano",
@@ -2036,20 +2036,20 @@
     },
     "rota": {
       "name": "Rota",
-      "total": 1140,
-      "places": 6238,
-      "skipped_without_valid_coordinates": 14,
+      "total": 1135,
+      "places": 6217,
+      "skipped_without_valid_coordinates": 15,
       "by_type": {
-        "VUT": 1140
+        "VUT": 1135
       },
       "by_group": {
-        "Completa": 1115,
+        "Completa": 1110,
         "Por habitaciones": 25
       },
       "by_postal_code": {
         "11205": 1,
         "11420": 1,
-        "11520": 1129,
+        "11520": 1124,
         "11550": 9
       },
       "by_year": {
@@ -2060,10 +2060,10 @@
         "2020": 73,
         "2021": 100,
         "2022": 131,
-        "2023": 130,
-        "2024": 158,
-        "2025": 133,
-        "2026": 31
+        "2023": 129,
+        "2024": 157,
+        "2025": 131,
+        "2026": 30
       },
       "companies": [
         {
@@ -2127,25 +2127,27 @@
           "count": 2
         }
       ],
-      "individuals_count": 1003
+      "individuals_count": 998
     },
     "san-fernando": {
       "name": "San Fernando",
-      "total": 235,
-      "places": 1170,
+      "total": 236,
+      "places": 1333,
       "skipped_without_valid_coordinates": 8,
       "by_type": {
-        "VUT": 235
+        "VUT": 235,
+        "AT": 1
       },
       "by_group": {
         "Completa": 220,
-        "Por habitaciones": 15
+        "Por habitaciones": 15,
+        "Conjunto": 1
       },
       "by_postal_code": {
-        "11100": 235
+        "11100": 236
       },
       "by_year": {
-        "2016": 2,
+        "2016": 3,
         "2017": 3,
         "2018": 13,
         "2019": 23,
@@ -2181,6 +2183,10 @@
         {
           "name": "INVERSIONES PATRÓN 20 S.L.",
           "count": 2
+        },
+        {
+          "name": "BAHIA SUR GESTION TURISTICA, S.L.U.",
+          "count": 1
         },
         {
           "name": "MARINWBANET S.L.L.",
@@ -2235,23 +2241,23 @@
     },
     "san-roque": {
       "name": "San Roque",
-      "total": 1220,
-      "places": 8295,
-      "skipped_without_valid_coordinates": 27,
+      "total": 1217,
+      "places": 8269,
+      "skipped_without_valid_coordinates": 31,
       "by_type": {
-        "VUT": 1219,
+        "VUT": 1216,
         "AT": 1
       },
       "by_group": {
-        "Completa": 1200,
-        "Por habitaciones": 19,
+        "Completa": 1198,
+        "Por habitaciones": 18,
         "Edificio/Complejo": 1
       },
       "by_postal_code": {
         "1310": 1,
-        "11310": 713,
+        "11310": 711,
         "11311": 38,
-        "11312": 95,
+        "11312": 94,
         "11313": 4,
         "11314": 1,
         "11315": 2,
@@ -2267,13 +2273,13 @@
         "2016": 67,
         "2017": 125,
         "2018": 76,
-        "2019": 156,
+        "2019": 155,
         "2020": 59,
         "2021": 49,
         "2022": 153,
         "2023": 167,
         "2024": 174,
-        "2025": 152,
+        "2025": 150,
         "2026": 42
       },
       "companies": [
@@ -2338,42 +2344,45 @@
           "count": 2
         }
       ],
-      "individuals_count": 948
+      "individuals_count": 945
     },
     "sanlucar-de-barrameda": {
       "name": "Sanlúcar de Barrameda",
-      "total": 1438,
-      "places": 7961,
-      "skipped_without_valid_coordinates": 39,
+      "total": 1447,
+      "places": 8037,
+      "skipped_without_valid_coordinates": 47,
       "by_type": {
-        "VUT": 1438
+        "VUT": 1446,
+        "AT": 1
       },
       "by_group": {
-        "Completa": 1368,
-        "Por habitaciones": 70
+        "Completa": 1377,
+        "Por habitaciones": 69,
+        "Edificio/Complejo": 1
       },
       "by_postal_code": {
         "1540": 1,
         "11450": 1,
         "11510": 1,
         "11520": 1,
-        "11540": 1431,
+        "11540": 1439,
         "11550": 1,
         "15540": 1,
-        "41005": 1
+        "41005": 1,
+        "41016": 1
       },
       "by_year": {
         "2016": 50,
         "2017": 60,
         "2018": 106,
-        "2019": 137,
+        "2019": 136,
         "2020": 81,
         "2021": 90,
         "2022": 202,
         "2023": 189,
         "2024": 254,
-        "2025": 199,
-        "2026": 70
+        "2025": 198,
+        "2026": 81
       },
       "companies": [
         {
@@ -2437,7 +2446,7 @@
           "count": 2
         }
       ],
-      "individuals_count": 1282
+      "individuals_count": 1290
     },
     "setenil-de-las-bodegas": {
       "name": "Setenil de las Bodegas",
@@ -2481,27 +2490,28 @@
     },
     "tarifa": {
       "name": "Tarifa",
-      "total": 2919,
-      "places": 15275,
-      "skipped_without_valid_coordinates": 84,
+      "total": 2910,
+      "places": 15320,
+      "skipped_without_valid_coordinates": 90,
       "by_type": {
-        "VUT": 2919
+        "VUT": 2909,
+        "AT": 1
       },
       "by_group": {
-        "Completa": 2836,
-        "Por habitaciones": 80,
-        "sin dato": 3
+        "Completa": 2827,
+        "Por habitaciones": 79,
+        "sin dato": 3,
+        "Conjunto": 1
       },
       "by_postal_code": {
         "1138": 1,
         "11280": 1,
         "11339": 1,
         "11370": 1,
-        "11380": 1719,
+        "11380": 1712,
         "11381": 1,
-        "11389": 1,
         "11390": 14,
-        "11391": 201,
+        "11391": 200,
         "11392": 4,
         "11393": 971,
         "11394": 1,
@@ -2511,16 +2521,16 @@
       },
       "by_year": {
         "2016": 430,
-        "2017": 329,
-        "2018": 308,
-        "2019": 320,
-        "2020": 141,
-        "2021": 247,
-        "2022": 298,
-        "2023": 209,
-        "2024": 251,
+        "2017": 328,
+        "2018": 307,
+        "2019": 318,
+        "2020": 140,
+        "2021": 246,
+        "2022": 293,
+        "2023": 208,
+        "2024": 250,
         "2025": 260,
-        "2026": 126
+        "2026": 130
       },
       "companies": [
         {
@@ -2552,10 +2562,6 @@
           "count": 5
         },
         {
-          "name": "Servicios Inmobiliarios Nuestra Zahara, S.L.",
-          "count": 5
-        },
-        {
           "name": "FORSALEINTARIFA SL",
           "count": 5
         },
@@ -2565,6 +2571,10 @@
         },
         {
           "name": "Ovando Suites S.L.",
+          "count": 4
+        },
+        {
+          "name": "Servicios Inmobiliarios Nuestra Zahara, S.L.",
           "count": 4
         },
         {
@@ -2584,7 +2594,7 @@
           "count": 3
         }
       ],
-      "individuals_count": 2390
+      "individuals_count": 2382
     },
     "torre-alhaquime": {
       "name": "Torre Alháquime",
@@ -2657,22 +2667,22 @@
     },
     "vejer-de-la-frontera": {
       "name": "Vejer de la Frontera",
-      "total": 387,
-      "places": 1814,
-      "skipped_without_valid_coordinates": 32,
+      "total": 391,
+      "places": 1835,
+      "skipped_without_valid_coordinates": 33,
       "by_type": {
-        "VUT": 387
+        "VUT": 391
       },
       "by_group": {
-        "Completa": 376,
+        "Completa": 380,
         "Por habitaciones": 10,
         "sin dato": 1
       },
       "by_postal_code": {
         "1150": 1,
-        "11150": 346,
+        "11150": 348,
         "11158": 2,
-        "11159": 38
+        "11159": 40
       },
       "by_year": {
         "2016": 1,
@@ -2684,7 +2694,7 @@
         "2023": 33,
         "2024": 64,
         "2025": 103,
-        "2026": 42
+        "2026": 46
       },
       "companies": [
         {
@@ -2705,6 +2715,10 @@
         },
         {
           "name": "CASA NAVARRO CB",
+          "count": 1
+        },
+        {
+          "name": "CASAS CURRIPLAYA CB",
           "count": 1
         },
         {
@@ -2742,13 +2756,9 @@
         {
           "name": "GALLARETO SL",
           "count": 1
-        },
-        {
-          "name": "GESTION INTEGRAL DE PROPIEDADES LYRIOS HOMES, S.L.",
-          "count": 1
         }
       ],
-      "individuals_count": 363
+      "individuals_count": 365
     },
     "villaluenga-del-rosario": {
       "name": "Villaluenga del Rosario",
@@ -2773,21 +2783,21 @@
     },
     "villamartin": {
       "name": "Villamartín",
-      "total": 3,
-      "places": 20,
+      "total": 5,
+      "places": 41,
       "skipped_without_valid_coordinates": 0,
       "by_type": {
-        "VUT": 3
+        "VUT": 5
       },
       "by_group": {
-        "Completa": 3
+        "Completa": 5
       },
       "by_postal_code": {
-        "11650": 3
+        "11650": 5
       },
       "by_year": {
         "2024": 2,
-        "2026": 1
+        "2026": 3
       },
       "companies": [
         {
@@ -2795,7 +2805,7 @@
           "count": 1
         }
       ],
-      "individuals_count": 2
+      "individuals_count": 4
     },
     "zahara-de-la-sierra": {
       "name": "Zahara de la Sierra",
