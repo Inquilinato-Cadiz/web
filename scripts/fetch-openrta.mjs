@@ -58,15 +58,30 @@ const byYear = (arr) => Object.fromEntries(Object.entries(count(arr, (f) => f.pr
 const topCompanies = (holders) => [...holders.entries()].sort((a, b) => b[1] - a[1]).slice(0, 15).map(([name, n]) => ({ name, count: n }));
 const places = (arr) => arr.reduce((s, f) => s + (f.properties.places ?? 0), 0);
 
+// La API de la Junta corta a veces la conexión a mitad de una descarga grande
+// (ECONNRESET tras minutos colgada): cada petición tiene tiempo límite y se
+// reintenta antes de dar por fallida la actualización entera.
+async function fetchJson(url, label, attempts = 4) {
+  for (let i = 1; ; i++) {
+    try {
+      const res = await fetch(url, { signal: AbortSignal.timeout(120_000) });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return await res.json();
+    } catch (error) {
+      if (i >= attempts) throw new Error(`${label}: ${error.message} tras ${attempts} intentos`, { cause: error });
+      console.warn(`${label}: ${error.message}; reintento ${i}/${attempts - 1}`);
+      await new Promise((resolve) => setTimeout(resolve, 15_000 * i));
+    }
+  }
+}
+
 async function fetchMunicipio(api) {
   const params = new URLSearchParams({
     id: "-", object_type: "-", category: "-", group: "-", modality: "-",
     province: PROVINCE, municipality: api,
     order_by: "registration_code", mode: "ASC", format: "json", size: "10000",
   });
-  const res = await fetch(`${API}/search?${params}`);
-  if (!res.ok) throw new Error(`${api}: HTTP ${res.status}`);
-  const payload = await res.json();
+  const payload = await fetchJson(`${API}/search?${params}`, api);
   const rows = payload.results ?? [];
   if ((payload.total_hits ?? 0) > rows.length) throw new Error(`${api}: ${payload.total_hits} registros y la API sólo devuelve ${rows.length}`);
   return rows;
