@@ -7,6 +7,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # para lanzar Deploy: un push con GITHUB_TOKEN no dispara otros workflows
 
 jobs:
   update:
@@ -33,5 +34,11 @@ jobs:
             echo "Sin cambios en los datos"
           else
             git commit -m "Datos OpenRTA, índices INE, demanda de VPO y desahucios $(date -u +%Y-%m-%d)"
+            # main puede haber avanzado durante la descarga (unos minutos); los
+            # datos sólo los toca este workflow, así que el rebase no choca.
+            git pull --rebase
             git push
+            gh workflow run deploy.yml --ref main
           fi
+        env:
+          GH_TOKEN: ${{ github.token }}
