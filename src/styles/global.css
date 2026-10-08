@@ -62,6 +62,25 @@ html {
   }
 }
 
+/* Lazo de luto: se balancea despacio desde el nudo y descansa. */
+.luto {
+  transform-origin: 50% 15%;
+  animation: luto 6s ease-in-out infinite;
+}
+@keyframes luto {
+  0%,
+  40%,
+  100% {
+    transform: rotate(0);
+  }
+  10% {
+    transform: rotate(6deg);
+  }
+  25% {
+    transform: rotate(-4deg);
+  }
+}
+
 /* Titular: cada palabra sube al cargar. */
 .rise {
   display: inline-block;
@@ -89,6 +108,9 @@ html {
 
 @media (prefers-reduced-motion: reduce) {
   .ticker > * {
+    animation: none;
+  }
+  .luto {
     animation: none;
   }
   .rise {

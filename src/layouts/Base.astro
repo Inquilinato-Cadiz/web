@@ -1,6 +1,7 @@
 ---
 import "../styles/global.css";
 import { social, AFILIATE, CONTACTO } from "../data/social";
+import Luto from "../components/Luto.astro";
 
 interface Props {
   title: string;
@@ -55,9 +56,12 @@ const toolsActive = tools.some((t) => active(t.href));
     <header id="site-header" class="relative z-[1100]">
       <div class="border-b-3 border-ink bg-white">
         <div class="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-4 gap-y-3 px-4 py-4 md:gap-x-8">
-          <a href="/" class="shrink-0" title="Sindicato de Inquilinas e Inquilinos de Cádiz">
-            <img src="/logo-cabecera.png" alt="Sindicato de Inquilinas e Inquilinos de Cádiz" width="726" height="162" class="h-9 w-auto md:h-11" />
-          </a>
+          <div class="flex items-center gap-3">
+            <a href="/" class="shrink-0" title="Sindicato de Inquilinas e Inquilinos de Cádiz">
+              <img src="/logo-cabecera.png" alt="Sindicato de Inquilinas e Inquilinos de Cádiz" width="726" height="162" class="h-9 w-auto md:h-11" />
+            </a>
+            <Luto />
+          </div>
           <div class="ml-auto flex items-center gap-5 md:hidden">
             <a href={AFILIATE} class="brut brut-hover display hidden bg-brand px-3 py-1 text-lg text-white [.js_&]:inline-block" data-umami-event="afiliate" data-umami-event-origen="cabecera">Afíliate</a>
             <button id="menu-toggle" type="button" aria-controls="site-nav" aria-expanded="false" class="display hidden items-center gap-2 text-lg tracking-wide [.js_&]:flex">
