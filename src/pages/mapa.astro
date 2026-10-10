@@ -7,7 +7,7 @@ const inicial = municipios.municipios.find((m) => m.slug === DEFAULT) ?? municip
 const fmt = (n: number) => n.toLocaleString("es-ES");
 ---
 
-<Base title="Mapa de viviendas turísticas de la provincia de Cádiz" fullBleed>
+<Base image="/og/piso-turistico.png" title="Mapa de viviendas turísticas de la provincia de Cádiz" fullBleed>
   <div class="grid min-h-[560px] grid-rows-[auto_1fr] lg:h-[calc(100vh-79px)] lg:grid-cols-[360px_1fr] lg:grid-rows-1">
     <aside class="overflow-y-auto border-b-3 border-ink bg-white p-4 lg:border-b-0 lg:border-r-3">
       <h1 class="display text-3xl">Viviendas turísticas en <span id="muni-name">{inicial.name}</span></h1>

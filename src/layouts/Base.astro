@@ -2,14 +2,17 @@
 import "../styles/global.css";
 import { social, AFILIATE, CONTACTO } from "../data/social";
 import Luto from "../components/Luto.astro";
+import { OG_IMAGE } from "../data/og";
 
 interface Props {
   title: string;
   description?: string;
   fullBleed?: boolean;
+  /** Imagen para compartir (1200×630) de public/og/; sin ella, la de campaña de src/data/og.ts. */
+  image?: string;
 }
 
-const { title, description = "Sindicato de Inquilinas e Inquilinos de Cádiz. Organizadas contra el rentismo: mapa de viviendas turísticas, datos y herramientas para inquilinas.", fullBleed = false } = Astro.props;
+const { title, description = "Sindicato de Inquilinas e Inquilinos de Cádiz. Organizadas contra el rentismo: mapa de viviendas turísticas, datos y herramientas para inquilinas.", fullBleed = false, image = OG_IMAGE } = Astro.props;
 
 
 const nav = [
@@ -45,7 +48,7 @@ const toolsActive = tools.some((t) => active(t.href));
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
     <meta property="og:url" content={new URL(path, Astro.site)} />
-    <meta property="og:image" content={new URL("/og.png", Astro.site)} />
+    <meta property="og:image" content={new URL(image, Astro.site)} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
