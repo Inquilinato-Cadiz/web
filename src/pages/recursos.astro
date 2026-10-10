@@ -1,0 +1,14 @@
+---
+import Base from "../layouts/Base.astro";
+import Recursos from "../components/Recursos.astro";
+import { CONTACTO } from "../data/social";
+---
+
+<Base title="Recursos" description="Guías, modelos de documento, vídeos y respuestas a dudas frecuentes del Sindicato de Inquilinas e Inquilinos de Cádiz.">
+  <h1 class="display text-6xl md:text-7xl">Recursos</h1>
+  <p class="mt-4 max-w-2xl text-lg leading-relaxed md:text-xl">Guías, modelos de documento y respuestas a las dudas más frecuentes. Descárgalos y úsalos. Si tu caso no encaja, <a href={CONTACTO} class="underline decoration-2 underline-offset-4">escríbenos</a>.</p>
+
+  <div class="mt-10 max-w-4xl">
+    <Recursos />
+  </div>
+</Base>
