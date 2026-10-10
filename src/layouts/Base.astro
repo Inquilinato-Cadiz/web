@@ -24,6 +24,7 @@ const tools = [
   { href: "/fincas/", label: "Fincas" },
   { href: "/datos/", label: "Datos" },
   { href: "/utilidades/", label: "Utilidades" },
+  { href: "/recursos/", label: "Recursos" },
   { href: "/denuncia/", label: "Denunciar" },
 ];
 const path = Astro.url.pathname;
@@ -105,6 +106,7 @@ const toolsActive = tools.some((t) => active(t.href));
           <a href="/agenda/" class="hover:text-brand">Agenda</a>
           <a href="/unete/" class="hover:text-brand">Únete</a>
           <a href="/datos/" class="hover:text-brand">Datos</a>
+          <a href="/recursos/" class="hover:text-brand">Recursos</a>
         </nav>
         <div class="flex gap-4 text-2xl">
           {social.map((s) => (
