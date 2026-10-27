@@ -8,6 +8,8 @@ type AgendaEvent = {
   kind: string;
   kind_name: string;
   location: string | null;
+  modality?: "in_person" | "online" | "hybrid";
+  online_url?: string | null;
   description: string | null;
 };
 
@@ -35,10 +37,17 @@ const render = (event: AgendaEvent, full: boolean) => {
   const when = event.all_day ? fmt(start, { weekday: "long" }) : `${fmt(start, { weekday: "long" })} · ${fmt(start, { hour: "2-digit", minute: "2-digit" })}`;
   body.append(el("p", "font-mono text-xs uppercase tracking-widest text-neutral-600", `${when} · ${event.kind_name}`));
   body.append(el("h3", "display mt-1 text-2xl md:text-3xl", event.title));
-  if (event.location) {
+  const online = event.modality === "online" || event.modality === "hybrid";
+  const place = event.modality === "online" ? "Online" : [event.location, event.modality === "hybrid" ? "online" : null].filter(Boolean).join(" y ");
+  if (place) {
     const where = el("p", "mt-1 text-neutral-700");
-    where.append(Object.assign(el("i", "fa-solid fa-location-dot mr-1"), { ariaHidden: "true" }), event.location);
+    const icon = event.modality === "online" ? "fa-video" : "fa-location-dot";
+    where.append(Object.assign(el("i", `fa-solid ${icon} mr-1`), { ariaHidden: "true" }), place.charAt(0).toUpperCase() + place.slice(1));
     body.append(where);
+  }
+  if (online && event.online_url) {
+    const link = Object.assign(el("a", "mt-1 inline-block underline decoration-2 underline-offset-4", "Enlace para conectarse"), { href: event.online_url, target: "_blank", rel: "noopener" });
+    body.append(link);
   }
   if (full && event.description) body.append(el("p", "mt-3 whitespace-pre-line leading-relaxed", event.description));
   li.append(body);
