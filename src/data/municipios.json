@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-05",
-  "source_updated_at": "2026-10-05",
-  "total": 21412,
-  "places": 116779,
+  "generated_at": "2026-11-01",
+  "source_updated_at": "2026-11-01",
+  "total": 21617,
+  "places": 122252,
   "municipios": [
     {
       "slug": "alcala-de-los-gazules",
@@ -43,8 +43,8 @@
     {
       "slug": "algeciras",
       "name": "Algeciras",
-      "total": 167,
-      "places": 859,
+      "total": 173,
+      "places": 984,
       "bbox": [
         -5.613647,
         36.019371,
@@ -55,8 +55,8 @@
     {
       "slug": "algodonales",
       "name": "Algodonales",
-      "total": 20,
-      "places": 106,
+      "total": 22,
+      "places": 117,
       "bbox": [
         -5.457442,
         36.86495,
@@ -67,8 +67,8 @@
     {
       "slug": "arcos-de-la-frontera",
       "name": "Arcos de la Frontera",
-      "total": 241,
-      "places": 1246,
+      "total": 243,
+      "places": 1290,
       "bbox": [
         -5.932155,
         36.697547,
@@ -79,8 +79,8 @@
     {
       "slug": "barbate",
       "name": "Barbate",
-      "total": 997,
-      "places": 5071,
+      "total": 1024,
+      "places": 5669,
       "bbox": [
         -6.046085,
         36.101701,
@@ -127,8 +127,8 @@
     {
       "slug": "cadiz",
       "name": "Cádiz",
-      "total": 2373,
-      "places": 11286,
+      "total": 2411,
+      "places": 12470,
       "bbox": [
         -6.306469,
         36.312016,
@@ -151,8 +151,8 @@
     {
       "slug": "chiclana-de-la-frontera",
       "name": "Chiclana de la Frontera",
-      "total": 2564,
-      "places": 15237,
+      "total": 2585,
+      "places": 15557,
       "bbox": [
         -6.275714,
         36.277093,
@@ -163,8 +163,8 @@
     {
       "slug": "chipiona",
       "name": "Chipiona",
-      "total": 708,
-      "places": 3957,
+      "total": 715,
+      "places": 4035,
       "bbox": [
         -6.441744,
         36.690835,
@@ -175,8 +175,8 @@
     {
       "slug": "conil-de-la-frontera",
       "name": "Conil de la Frontera",
-      "total": 2967,
-      "places": 15973,
+      "total": 2993,
+      "places": 16426,
       "bbox": [
         -6.155552,
         36.271906,
@@ -211,8 +211,8 @@
     {
       "slug": "el-puerto-de-santa-maria",
       "name": "El Puerto de Santa María",
-      "total": 1829,
-      "places": 10602,
+      "total": 1831,
+      "places": 10642,
       "bbox": [
         -6.287591,
         36.569231,
@@ -235,8 +235,8 @@
     {
       "slug": "grazalema",
       "name": "Grazalema",
-      "total": 43,
-      "places": 233,
+      "total": 45,
+      "places": 261,
       "bbox": [
         -5.468564,
         36.757741,
@@ -247,8 +247,8 @@
     {
       "slug": "jerez-de-la-frontera",
       "name": "Jerez de la Frontera",
-      "total": 1433,
-      "places": 7173,
+      "total": 1458,
+      "places": 7974,
       "bbox": [
         -6.259781,
         36.592557,
@@ -271,8 +271,8 @@
     {
       "slug": "la-linea-de-la-concepcion",
       "name": "La Línea de la Concepción",
-      "total": 213,
-      "places": 1234,
+      "total": 214,
+      "places": 1247,
       "bbox": [
         -5.369573,
         36.156724,
@@ -283,8 +283,8 @@
     {
       "slug": "los-barrios",
       "name": "Los Barrios",
-      "total": 14,
-      "places": 79,
+      "total": 15,
+      "places": 97,
       "bbox": [
         -5.580909,
         36.174273,
@@ -295,8 +295,8 @@
     {
       "slug": "medina-sidonia",
       "name": "Medina-Sidonia",
-      "total": 52,
-      "places": 253,
+      "total": 54,
+      "places": 280,
       "bbox": [
         -5.943458,
         36.369479,
@@ -308,7 +308,7 @@
       "slug": "olvera",
       "name": "Olvera",
       "total": 24,
-      "places": 129,
+      "places": 132,
       "bbox": [
         -5.270418,
         36.932617,
@@ -362,8 +362,8 @@
     {
       "slug": "rota",
       "name": "Rota",
-      "total": 1135,
-      "places": 6217,
+      "total": 1141,
+      "places": 6968,
       "bbox": [
         -6.418933,
         36.616527,
@@ -374,8 +374,8 @@
     {
       "slug": "san-fernando",
       "name": "San Fernando",
-      "total": 236,
-      "places": 1333,
+      "total": 240,
+      "places": 1544,
       "bbox": [
         -6.297759,
         36.372538,
@@ -400,8 +400,8 @@
     {
       "slug": "san-roque",
       "name": "San Roque",
-      "total": 1217,
-      "places": 8269,
+      "total": 1219,
+      "places": 8297,
       "bbox": [
         -5.446302,
         36.133819,
@@ -412,8 +412,8 @@
     {
       "slug": "sanlucar-de-barrameda",
       "name": "Sanlúcar de Barrameda",
-      "total": 1447,
-      "places": 8037,
+      "total": 1455,
+      "places": 8255,
       "bbox": [
         -6.394822,
         36.749853,
@@ -424,8 +424,8 @@
     {
       "slug": "setenil-de-las-bodegas",
       "name": "Setenil de las Bodegas",
-      "total": 20,
-      "places": 103,
+      "total": 23,
+      "places": 119,
       "bbox": [
         -5.207573,
         36.852036,
@@ -436,8 +436,8 @@
     {
       "slug": "tarifa",
       "name": "Tarifa",
-      "total": 2910,
-      "places": 15320,
+      "total": 2919,
+      "places": 15589,
       "bbox": [
         -5.84292,
         36.010207,
@@ -467,8 +467,8 @@
     {
       "slug": "ubrique",
       "name": "Ubrique",
-      "total": 14,
-      "places": 52,
+      "total": 15,
+      "places": 187,
       "bbox": [
         -5.464408,
         36.671008,
@@ -479,8 +479,8 @@
     {
       "slug": "vejer-de-la-frontera",
       "name": "Vejer de la Frontera",
-      "total": 391,
-      "places": 1835,
+      "total": 400,
+      "places": 1932,
       "bbox": [
         -6.075413,
         36.189374,
@@ -515,8 +515,8 @@
     {
       "slug": "zahara-de-la-sierra",
       "name": "Zahara de la Sierra",
-      "total": 14,
-      "places": 82,
+      "total": 15,
+      "places": 87,
       "bbox": [
         -5.40971,
         36.83801,

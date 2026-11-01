@@ -1,15 +1,15 @@
 {
   "source": "Junta de Andalucía, Registros Municipales de Demandantes de Vivienda Protegida: solicitudes y estado de inscripciones a origen",
   "source_url": "https://www.juntadeandalucia.es/organismos/viviendajuventudyordenaciondelterritorio/areas/vivienda-rehabilitacion/vivienda-protegida/paginas/rmdv-estadistica-mensual-2026.html",
-  "file_url": "https://www.juntadeandalucia.es/sites/default/files/inline-files/2026/09/202608_rmdvp01_solicitudes_estado_de_inscripciones_origen.xls",
-  "period": "2026-08",
-  "generated_at": "2026-10-05",
+  "file_url": "https://www.juntadeandalucia.es/sites/default/files/inline-files/2026/10/202609_rmdvp01_solicitudes_estado_de_inscripciones_origen.xls",
+  "period": "2026-09",
+  "generated_at": "2026-11-01",
   "province": {
-    "solicitudes": 71202,
-    "inscritas": 64066,
-    "activas": 23471,
-    "adjudicadas": 3338,
-    "caducadas": 37257,
+    "solicitudes": 71764,
+    "inscritas": 64501,
+    "activas": 23723,
+    "adjudicadas": 3351,
+    "caducadas": 37427,
     "municipios": 34
   },
   "missing": [
@@ -29,11 +29,11 @@
     "alcala-de-los-gazules": {
       "ine": "11001",
       "name": "Alcalá de los Gazules",
-      "solicitudes": 531,
-      "inscritas": 493,
-      "activas": 100,
+      "solicitudes": 532,
+      "inscritas": 494,
+      "activas": 98,
       "adjudicadas": 96,
-      "caducadas": 297
+      "caducadas": 300
     },
     "alcala-del-valle": {
       "ine": "11002",
@@ -56,47 +56,47 @@
     "algeciras": {
       "ine": "11004",
       "name": "Algeciras",
-      "solicitudes": 5219,
-      "inscritas": 5093,
-      "activas": 1396,
-      "adjudicadas": 274,
-      "caducadas": 3423
+      "solicitudes": 5272,
+      "inscritas": 5142,
+      "activas": 1425,
+      "adjudicadas": 275,
+      "caducadas": 3442
     },
     "algodonales": {
       "ine": "11005",
       "name": "Algodonales",
-      "solicitudes": 305,
-      "inscritas": 228,
-      "activas": 210,
+      "solicitudes": 306,
+      "inscritas": 229,
+      "activas": 211,
       "adjudicadas": 0,
       "caducadas": 18
     },
     "arcos-de-la-frontera": {
       "ine": "11006",
       "name": "Arcos de la Frontera",
-      "solicitudes": 783,
-      "inscritas": 696,
-      "activas": 162,
+      "solicitudes": 791,
+      "inscritas": 704,
+      "activas": 167,
       "adjudicadas": 31,
-      "caducadas": 503
+      "caducadas": 506
     },
     "barbate": {
       "ine": "11007",
       "name": "Barbate",
       "solicitudes": 1491,
       "inscritas": 489,
-      "activas": 251,
+      "activas": 297,
       "adjudicadas": 0,
-      "caducadas": 238
+      "caducadas": 192
     },
     "los-barrios": {
       "ine": "11008",
       "name": "Barrios (Los)",
       "solicitudes": 1633,
-      "inscritas": 1587,
-      "activas": 586,
+      "inscritas": 1590,
+      "activas": 585,
       "adjudicadas": 9,
-      "caducadas": 992
+      "caducadas": 996
     },
     "benalup-casas-viejas": {
       "ine": "11901",
@@ -128,47 +128,47 @@
     "cadiz": {
       "ine": "11012",
       "name": "Cádiz",
-      "solicitudes": 17859,
-      "inscritas": 15868,
-      "activas": 7280,
-      "adjudicadas": 923,
-      "caducadas": 7665
+      "solicitudes": 18018,
+      "inscritas": 15914,
+      "activas": 7244,
+      "adjudicadas": 927,
+      "caducadas": 7743
     },
     "castellar-de-la-frontera": {
       "ine": "11013",
       "name": "Castellar de la Frontera",
-      "solicitudes": 600,
-      "inscritas": 483,
-      "activas": 177,
+      "solicitudes": 603,
+      "inscritas": 486,
+      "activas": 181,
       "adjudicadas": 0,
-      "caducadas": 306
+      "caducadas": 305
     },
     "chiclana-de-la-frontera": {
       "ine": "11015",
       "name": "Chiclana de la Frontera",
-      "solicitudes": 6758,
-      "inscritas": 6386,
-      "activas": 1937,
-      "adjudicadas": 380,
-      "caducadas": 4069
+      "solicitudes": 6762,
+      "inscritas": 6389,
+      "activas": 1928,
+      "adjudicadas": 384,
+      "caducadas": 4077
     },
     "chipiona": {
       "ine": "11016",
       "name": "Chipiona",
-      "solicitudes": 967,
-      "inscritas": 842,
-      "activas": 192,
-      "adjudicadas": 75,
+      "solicitudes": 970,
+      "inscritas": 843,
+      "activas": 189,
+      "adjudicadas": 79,
       "caducadas": 575
     },
     "conil-de-la-frontera": {
       "ine": "11014",
       "name": "Conil de la Frontera",
-      "solicitudes": 2910,
-      "inscritas": 2821,
-      "activas": 1270,
+      "solicitudes": 2957,
+      "inscritas": 2865,
+      "activas": 1292,
       "adjudicadas": 125,
-      "caducadas": 1426
+      "caducadas": 1448
     },
     "espera": {
       "ine": "11017",
@@ -191,27 +191,27 @@
     "la-linea-de-la-concepcion": {
       "ine": "11022",
       "name": "Línea de la Concepción (La)",
-      "solicitudes": 2175,
-      "inscritas": 2135,
-      "activas": 847,
+      "solicitudes": 2211,
+      "inscritas": 2171,
+      "activas": 877,
       "adjudicadas": 128,
-      "caducadas": 1160
+      "caducadas": 1166
     },
     "medina-sidonia": {
       "ine": "11023",
       "name": "Medina-Sidonia",
       "solicitudes": 542,
-      "inscritas": 148,
+      "inscritas": 150,
       "activas": 3,
       "adjudicadas": 0,
-      "caducadas": 145
+      "caducadas": 147
     },
     "olvera": {
       "ine": "11024",
       "name": "Olvera",
-      "solicitudes": 225,
-      "inscritas": 202,
-      "activas": 19,
+      "solicitudes": 226,
+      "inscritas": 203,
+      "activas": 20,
       "adjudicadas": 10,
       "caducadas": 173
     },
@@ -229,79 +229,79 @@
       "name": "Prado del Rey",
       "solicitudes": 66,
       "inscritas": 38,
-      "activas": 2,
+      "activas": 1,
       "adjudicadas": 0,
-      "caducadas": 36
+      "caducadas": 37
     },
     "el-puerto-de-santa-maria": {
       "ine": "11027",
       "name": "Puerto de Santa María (El)",
-      "solicitudes": 4048,
-      "inscritas": 3682,
-      "activas": 1428,
+      "solicitudes": 4133,
+      "inscritas": 3761,
+      "activas": 1500,
       "adjudicadas": 330,
-      "caducadas": 1924
+      "caducadas": 1931
     },
     "puerto-real": {
       "ine": "11028",
       "name": "Puerto Real",
-      "solicitudes": 2867,
-      "inscritas": 2772,
-      "activas": 781,
+      "solicitudes": 2885,
+      "inscritas": 2793,
+      "activas": 802,
       "adjudicadas": 96,
       "caducadas": 1895
     },
     "rota": {
       "ine": "11030",
       "name": "Rota",
-      "solicitudes": 3383,
-      "inscritas": 3115,
-      "activas": 1419,
+      "solicitudes": 3446,
+      "inscritas": 3187,
+      "activas": 1480,
       "adjudicadas": 160,
-      "caducadas": 1536
+      "caducadas": 1547
     },
     "san-fernando": {
       "ine": "11031",
       "name": "San Fernando",
-      "solicitudes": 6568,
-      "inscritas": 6289,
-      "activas": 2200,
+      "solicitudes": 6576,
+      "inscritas": 6290,
+      "activas": 2177,
       "adjudicadas": 15,
-      "caducadas": 4074
+      "caducadas": 4098
     },
     "san-jose-del-valle": {
       "ine": "11902",
       "name": "San José del Valle",
-      "solicitudes": 312,
-      "inscritas": 269,
-      "activas": 76,
+      "solicitudes": 316,
+      "inscritas": 271,
+      "activas": 78,
       "adjudicadas": 43,
       "caducadas": 150
     },
     "san-roque": {
       "ine": "11033",
       "name": "San Roque",
-      "solicitudes": 2434,
-      "inscritas": 2317,
-      "activas": 852,
+      "solicitudes": 2468,
+      "inscritas": 2355,
+      "activas": 886,
       "adjudicadas": 161,
-      "caducadas": 1304
+      "caducadas": 1308
     },
     "sanlucar-de-barrameda": {
       "ine": "11032",
       "name": "Sanlúcar de Barrameda",
       "solicitudes": 2282,
       "inscritas": 2104,
-      "activas": 606,
+      "activas": 580,
       "adjudicadas": 49,
-      "caducadas": 1449
+      "caducadas": 1475
     },
     "tarifa": {
       "ine": "11035",
       "name": "Tarifa",
-      "solicitudes": 3559,
-      "inscritas": 3114,
-      "activas": 924,
+      "solicitudes": 3590,
+      "inscritas": 3138,
+      "activas": 948,
       "adjudicadas": 274,
       "caducadas": 1916
     },
@@ -319,18 +319,18 @@
       "name": "Vejer de la Frontera",
       "solicitudes": 860,
       "inscritas": 784,
-      "activas": 238,
+      "activas": 240,
       "adjudicadas": 0,
-      "caducadas": 546
+      "caducadas": 544
     },
     "villamartin": {
       "ine": "11041",
       "name": "Villamartín",
-      "solicitudes": 364,
+      "solicitudes": 367,
       "inscritas": 59,
-      "activas": 11,
+      "activas": 10,
       "adjudicadas": 0,
-      "caducadas": 48
+      "caducadas": 49
     }
   }
 }

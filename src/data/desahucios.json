@@ -1,9 +1,9 @@
 {
   "source": "Consejo General del Poder Judicial, Estadística Judicial: efecto de la crisis en los órganos judiciales, series por provincias. Lanzamientos practicados",
   "source_url": "https://www.poderjudicial.es/cgpj/es/Temas/Estadistica-Judicial/Estudios-e-Informes/Efecto-de-la-Crisis-en-los-organos-judiciales/",
-  "file_url": "https://www.poderjudicial.es/stfls/ESTADISTICA/FICHEROS/Crisis/Series%20-%20Efecto%20de%20la%20crisis%20en%20los%20organos%20judiciales%20por%20provincias%201T-2026_revisado.xlsx?t=202610065907",
+  "file_url": "https://www.poderjudicial.es/stfls/ESTADISTICA/FICHEROS/Crisis/Series%20-%20Efecto%20de%20la%20crisis%20en%20los%20organos%20judiciales%20por%20provincias%202T-2026.xlsx?t=202611015252",
   "province": "Cádiz",
-  "last_quarter": "2026-T1",
+  "last_quarter": "2026-T2",
   "last_full_year": "2025",
   "last_year": {
     "quarters": 4,
@@ -13,12 +13,12 @@
     "otros": 35
   },
   "last_4_quarters": {
-    "from": "2025-T2",
-    "to": "2026-T1",
-    "total": 480,
-    "lau": 334,
-    "hipotecaria": 111,
-    "otros": 35
+    "from": "2025-T3",
+    "to": "2026-T2",
+    "total": 534,
+    "lau": 328,
+    "hipotecaria": 161,
+    "otros": 45
   },
   "andalucia": {
     "ALMERIA": {
@@ -155,11 +155,11 @@
       "otros": 35
     },
     "2026": {
-      "quarters": 1,
-      "total": 122,
-      "lau": 77,
-      "hipotecaria": 37,
-      "otros": 8
+      "quarters": 2,
+      "total": 295,
+      "lau": 159,
+      "hipotecaria": 114,
+      "otros": 22
     }
   },
   "quarters": {
@@ -216,7 +216,8 @@
       "2025-T2": 119,
       "2025-T3": 88,
       "2025-T4": 151,
-      "2026-T1": 122
+      "2026-T1": 122,
+      "2026-T2": 173
     },
     "hipotecaria": {
       "2013-T1": 158,
@@ -271,7 +272,8 @@
       "2025-T2": 27,
       "2025-T3": 18,
       "2025-T4": 29,
-      "2026-T1": 37
+      "2026-T1": 37,
+      "2026-T2": 77
     },
     "lau": {
       "2013-T1": 182,
@@ -326,7 +328,8 @@
       "2025-T2": 88,
       "2025-T3": 59,
       "2025-T4": 110,
-      "2026-T1": 77
+      "2026-T1": 77,
+      "2026-T2": 82
     },
     "otros": {
       "2013-T1": 5,
@@ -381,8 +384,9 @@
       "2025-T2": 4,
       "2025-T3": 11,
       "2025-T4": 12,
-      "2026-T1": 8
+      "2026-T1": 8,
+      "2026-T2": 14
     }
   },
-  "generated_at": "2026-10-05"
+  "generated_at": "2026-11-01"
 }
